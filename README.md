@@ -6,8 +6,6 @@
  [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-rosa-6a512815b/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-Rosa98&show_icons=true&theme=tokyonight)
-
 ### Teconologias que estou apredendo:
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
@@ -15,4 +13,4 @@
 </div><br/>    
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Rosa98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
