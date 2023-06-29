@@ -1,5 +1,5 @@
  ### Olá, me chamo Leonardo Rosa 👋🏼
- ### Estou atuamente no 1ª semestre no curso de análise e desenvolvimento de sistemas.📚
+ ### Estou atuamente no 2ª semestre no curso de análise e desenvolvimento de sistemas.📚
  ### Aqui postarei minha rotina de estudos.
 
 
